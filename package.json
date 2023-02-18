@@ -1,0 +1,24 @@
+{
+  "name": "api-kasir-aja",
+  "version": "1.0.0",
+  "description": "Api kasir aja",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puputym/APIAutomation.git"
+  },
+  "author": "puput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puputym/APIAutomation/issues"
+  },
+  "homepage": "https://github.com/puputym/APIAutomation#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
